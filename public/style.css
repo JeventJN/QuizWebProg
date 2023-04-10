@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ssr{
+    background-color: red;
+    height: 20vw;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sr{
+    background-color: gold;
+    height: 20vw;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.r{
+    background-color: silver;
+    height: 20vw;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.judul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10vw;
+}
